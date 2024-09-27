@@ -4,7 +4,7 @@
 >>支持GPT3.5 、GPT4.0 、GTP4o 、DALLE.3 、text-embedding 等多种模型
 
 
-#🎁 购买链接
+# 🎁 购买链接
 
 拍下24小时自动秒发APIKEY
 
@@ -23,9 +23,9 @@
 📣强烈建议您Ctrl+D收藏我们，下次打开更方便。
 📣请仔细阅读说明，并遵循指引操作，非常感谢您的配合。
 
-🚀# 快速开始
+# 🚀快速开始
 
-🔥## 一、如何获取APIKEY
+## 🔥一、如何获取APIKEY
 
 1、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
 
@@ -36,17 +36,17 @@
 
 2、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
 
-https://api.baicaigpt.cn
-https://api.baicaigpt.cn/v1
-https://api.baicaigpt.cn/v1/chat/completions
+> https://api.baicaigpt.cn
+> https://api.baicaigpt.cn/v1
+> https://api.baicaigpt.cn/v1/chat/completions
 
-🔥二、如何查询APIKEY可用余额
+## 🔥二、如何查询APIKEY可用余额
 
 APIKEY余额及消费明细查询网址：https://m.baicaigpt.com （拼音助记：白菜GPT）
 
 使用说明：打开网址，输入APIKEY，即可查询可用余额及消费明细
 
-🔥三、如何快速开始ChatGPT-免费镜像开箱即用
+## 🔥三、如何快速开始ChatGPT-免费镜像开箱即用
 
 1、LobeChat （35K+ star!即刻拥有你的私人 ChatGPT的项目）
 
@@ -62,7 +62,7 @@ PC端/移动端，请访问 https://nextchat.baicaigpt.cn
 
 可随时访问 https://baicaigpt.com 查询余额及消费明细
 
-🔥四、其他三方客户端如何配置APIKEY
+## 🔥四、其他三方客户端如何配置APIKEY
 
 沉浸式翻译APIKEY配置
 
@@ -80,7 +80,7 @@ https://api.baicaigpt.cn/v1/chat/completions
 
 6、完成配置，刷新网页可开始网页翻译！
 
-🔥五、程序开发如何实现对话请求-Python示例代码
+## 🔥五、程序开发如何实现对话请求-Python示例代码
 
 python代码Demo（复制粘贴，替换APIKEY即可调试通过）:
 
@@ -112,13 +112,13 @@ res = conn.getresponse()
 data = res.read()
 print(data.decode("utf-8"))
 
-🔥六、都支持哪些模型及价格
+## 🔥六、都支持哪些模型及价格
 
 白菜GPT力争成为市面上性价比最高，最稳定的企业级中转API，以让AI普惠大众为使命。白菜GPT的定价策略简单明了，按照OpenAI官方倍率计费，官方价格美元×7.5固定汇率即为人民币价格，人民币汇率暂时按7.5计算。详情请点击下方链接。
 
 点击查看 白菜GPT模型清单&定价
 
-🔥七、其他常见问题
+## 🔥七、其他常见问题
 
 1.如何进行API接口调用？
 请参考第五章节，示例代码。
