@@ -3,11 +3,8 @@
 
 >>支持GPT3.5 、GPT4.0 、GTP4o 、DALLE.3 、text-embedding 等多种模型
 
-💯人工客服（工作日9：00-17：00）
 
-说明：若遇到问题，请用微信扫描二维码添加白菜小助理（微信：BaiCai2568）进行反馈，最晚会在第二个工作日前给您回复，一定会回复，请耐心等待，请勿在淘宝里面进行询问，避免触发关键字封号，如果淘宝自动发货里没有APIKEY秘钥的 ，也可扫下方小助理领取秘钥，谢谢！
-
-🎁 购买链接
+#🎁 购买链接
 
 拍下24小时自动秒发APIKEY
 
@@ -18,17 +15,24 @@
 
 💡也可以手机淘宝扫码下方二维码
 
+![image](https://github.com/user-attachments/assets/1482d718-6677-40ca-bdcf-6f5fdf3c39fb)
+
+
 🔥Tip
 
 📣强烈建议您Ctrl+D收藏我们，下次打开更方便。
 📣请仔细阅读说明，并遵循指引操作，非常感谢您的配合。
-📣【带图+5星好评】加客服微信发送截图，领取额外赠送5美刀，客服微信号：BaiCai2568
 
-🚀快速开始
+🚀# 快速开始
 
-🔥一、如何获取APIKEY
+🔥## 一、如何获取APIKEY
 
 1、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
+
+![image](https://github.com/user-attachments/assets/50743249-9034-4e33-9bbc-9baeab967df5)
+
+![image](https://github.com/user-attachments/assets/216357be-e85b-4703-9a72-d40dd9466605)
+
 
 2、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
 
