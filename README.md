@@ -8,7 +8,7 @@
 
 拍下24小时自动秒发APIKEY
 
-电脑或手机浏览器点击淘宝：
+电脑或手机浏览器点击[淘宝](http://e.tb.cn/h.gH4gxUT6fd8mDry?tk=IvOP38MGMgQ)：
 
 【淘宝】http://e.tb.cn/h.gH4gxUT6fd8mDry?tk=IvOP38MGMgQ CZ0016 「企业级中转APIKEY4.0高速稳定一秒响应官方倍率」
 点击链接直接打开 或者 淘宝搜索直接打开
