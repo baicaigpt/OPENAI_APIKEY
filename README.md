@@ -6,8 +6,8 @@
 
 国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 无需任何注册 | 人工在线客服
 
-模型全[模型清单](https://github.com/baicaigpt/OPENAI_FAST_APIKEY#-%E8%B6%85%E4%BD%8E%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9A%E4%BB%B7) | 价格低[价格和官方一致，单笔消费满300元7折](https://taobao.baicaigpt.com) | 任意充[1元起充](https://taobao.baicaigpt.com) | 很稳定[API服务可用性](https://status.baicaigpt.cn/status/api)
-<br>
+模型全[模型清单](https://github.com/baicaigpt/OPENAI_FAST_APIKEY#-%E8%B6%85%E4%BD%8E%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9A%E4%BB%B7) | 价格低[价格和官方一致，单笔消费满300元7折](https://taobao.baicaigpt.com) | 低门槛[1元起售](https://taobao.baicaigpt.com) | 很稳定[API服务可用性](https://status.baicaigpt.cn/status/api)
+<p>
 <img src="https://github.com/user-attachments/assets/6879be22-36ae-4f72-ab8c-a902cf559eaa" width = "600"  alt="banner"/>
 </div>
 
@@ -92,11 +92,11 @@
 
 PC端/移动端，请访问 https://lobechat.baicaigpt.com
 
-![image](https://github.com/user-attachments/assets/dc698ec2-4915-487b-9e79-5663b868d379)
+<img src="https://github.com/user-attachments/assets/dc698ec2-4915-487b-9e79-5663b868d379" width = "600"  alt="banner"/>
 
-![image](https://github.com/user-attachments/assets/03190782-40f7-4dde-aab1-160474cd48a2)
+<img src="https://github.com/user-attachments/assets/03190782-40f7-4dde-aab1-160474cd48a2" width = "600"  alt="banner"/>
 
-![image](https://github.com/user-attachments/assets/92e49900-9599-42f4-8cbb-a2b5a541cde5)
+<img src="https://github.com/user-attachments/assets/92e49900-9599-42f4-8cbb-a2b5a541cde5" width = "600"  alt="banner"/>
 
 
 **2、NextChat（70K+ star！马上拥有跨平台 ChatGPT 应用：ChatGPT-Next-Web）**
@@ -107,7 +107,7 @@ PC端/移动端，请访问 https://nextchat.baicaigpt.cn
 > 注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
 > 注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
 
-![image](https://github.com/user-attachments/assets/fdde3575-2f4a-4a46-b634-5da07de2d5b5)
+<img src="https://github.com/user-attachments/assets/fdde3575-2f4a-4a46-b634-5da07de2d5b5" width = "600"  alt="banner"/>
 
 可随时访问 [https://m.baicaigpt.com](https://m.baicaigpt.com) 查询余额及消费明细
 
@@ -117,35 +117,30 @@ PC端/移动端，请访问 https://nextchat.baicaigpt.cn
 
 1、打开Chrome插件，点击设置
 
-![image](https://github.com/user-attachments/assets/754e499d-7dbd-4757-903b-a15e63c2e19d)
-
+<img src="https://github.com/user-attachments/assets/754e499d-7dbd-4757-903b-a15e63c2e19d" width = "600"  alt="banner"/>
 
 2、复制从淘宝购买的APIKEY，并选择所需模型（模型可默认，或从模型清单选择，推荐gpt-4o-mini）
 
-![image](https://github.com/user-attachments/assets/d2efaa67-d3fa-43c2-9b22-70dc753e2624)
-
+<img src="https://github.com/user-attachments/assets/d2efaa67-d3fa-43c2-9b22-70dc753e2624" width = "600"  alt="banner"/>
 
 3、点击“展开更多自定义选型按钮”
 
 ![image](https://github.com/user-attachments/assets/9d16230b-16eb-454c-bea3-406983a86adb)
-
+<img src="https://github.com/user-attachments/assets/fdde3575-2f4a-4a46-b634-5da07de2d5b5" width = "600"  alt="banner"/>
 
 4、复制转发地址，切记不要输错，复制粘贴如下地址即可
 
 **https://api.baicaigpt.cn/v1/chat/completions**
 
-![image](https://github.com/user-attachments/assets/4e2a9916-bfce-4064-a816-414b12751831)
-
+<img src="https://github.com/user-attachments/assets/4e2a9916-bfce-4064-a816-414b12751831" width = "600"  alt="banner"/>
 
 5、点击“测试服务”按钮，检查是否验证成功
 
-![image](https://github.com/user-attachments/assets/3d95724a-4914-45dd-ad9f-de2a6c724f5d)
-
+<img src="https://github.com/user-attachments/assets/3d95724a-4914-45dd-ad9f-de2a6c724f5d" width = "600"  alt="banner"/>
 
 6、完成配置，刷新网页可开始网页翻译！
 
-![image](https://github.com/user-attachments/assets/368d8cd7-de78-45ec-9da7-9aa4613ca960)
-
+<img src="https://github.com/user-attachments/assets/368d8cd7-de78-45ec-9da7-9aa4613ca960" width = "600"  alt="banner"/>
 
 ### 2.3程序开发Python示例代码
 
