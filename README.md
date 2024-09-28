@@ -48,9 +48,6 @@
 |text-embedding-3-small|	$ 0.00002 /1k|	$ 0.00002 /1k|	官方价格1:1×7.5固定汇率|	不限速|
 |text-embedding-ada-002|	$ 0.0001 /1k|	$ 0.0001 /1k|	官方价格1:1×7.5固定汇率|	不限速|
 
-# 淘宝购买链接🎁 
-
-[拍下24小时自动秒发APIKEY](https://taobao.baicaigpt.com/)
 
 📌Tip
 
@@ -59,12 +56,15 @@
 📣请仔细阅读说明，并遵循指引操作，非常感谢您的配合。
 
 # 🚀快速开始🚀
-## 一获取APIKEY
-### 1、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
+## 一🌟购买APIKEY
+### 1、淘宝店🎁购买链接如下 
+[拍下24小时自动秒发APIKEY](https://taobao.baicaigpt.com/)
+
+### 2、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
 
 <img width="478" alt="Snipaste_2024-09-28_11-58-37" src="https://github.com/user-attachments/assets/ce3bf0f8-a1bc-404f-9d28-58f66e7a109f">
 	
-### 2、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
+### 3、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
 
 **https://api.baicaigpt.cn**
 
@@ -72,7 +72,7 @@
 
 **https://api.baicaigpt.cn/v1/chat/completions**
 
-## 二使用APIKEY
+## 二🌟使用APIKEY
 ### 2.1免费镜像LobeChat|NextChat开箱即用
 
 **1、LobeChat （35K+ star!即刻拥有你的私人 ChatGPT的项目）**
@@ -168,7 +168,7 @@ data = res.read()
 print(data.decode("utf-8"))
 ```
 
-## 三查询APIKEY余额及明细
+## 三🌟查询APIKEY余额及明细
 APIKEY余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.baicaigpt.com) （拼音助记：白菜GPT）
 
 使用说明：打开网址，输入APIKEY，即可查询可用余额及消费明细
@@ -176,7 +176,7 @@ APIKEY余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.ba
 <img width="481" alt="Snipaste_2024-09-28_12-05-15" src="https://github.com/user-attachments/assets/40000941-4d61-48ff-bb13-7e965513dbab">
 
 		
-## 四其他常见问题
+## 四🌟其他常见问题
 1.如何进行API接口调用？
 请参考第五章节，示例代码。
 
