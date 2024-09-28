@@ -1,12 +1,47 @@
 # 🚀白菜GPT🚀高速超稳中转API帮助文档(免手机注册版)
-## 国内直连 无需代理 价格和官方一致，单笔消费满300元7折优惠，点击购买！
+## 国内直连 无需代理 价格和官方一致，单笔消费满300元7折优惠，[点击购买](http://e.tb.cn/h.gH4gxUT6fd8mDry?tk=IvOP38MGMgQ)！
 
-> 支持GPT3.5 、GPT4.0 、GTP4o 、DALLE.3 、text-embedding 等多种模型
+> 支持GPT3.5 、GPT4.0 、GTP4o 、DALLE.3 、text-embedding 等多种模型，模型清单及定价说明如下：
 
+> 白菜GPT以让AI普惠大众为使命，力争成为市面上性价比最高，最稳定的企业级中转API。白菜GPT的定价策略简单明了，按照OpenAI官方价格1：1倍率计费，即价格与官方价格一致，为便于计费，人民币汇率按7.5计算。
+
+> 按量付费，用多少付多少，最低1元起用。费用明细和余额随时可查，无复杂计算，也无捆绑销售。
+
+> 例如：
+> 你购买10元，在无优惠情况下，等价人民币10元。各模型单价按1:1倍率，汇率固定为7.5，即官方价格×1:1倍率×7.5汇率，就是你的模型使用价格（具体官方价格如下表）。
+
+> 以gpt-4-turbo为例，官方定价为提问价格$0.01/1k，那么白菜售价为（0.01美元/1k）×1:1倍率×7.5=0.075元人民币/1k。回答Token价格同理，按回答价格计费。
+
+> 购买越多优惠越大，单笔消费300元及以上打7折。如有其他定制额度需求可联系客服（微信：BaiCai2568），满1000元可开电子发票，如需更多SK充值，可联系客服。
+
+> OpenAI官方每个模型的具体价格可参考其官网（https://openai.com/api/pricing/）。
+
+| 模型 | 提问官方价格 | 回答官方价格 | 白菜定价 | 每小时最多请求次数 |
+| --- | --- | --- | --- | --- |
+gpt-3.5-turbo	$ 0.0015 /1k	$ 0.002 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-3.5-turbo-0125	$ 0.0005 /1k	$ 0.0015 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-3.5-turbo-1106	$ 0.001 /1k	$ 0.002 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-3.5-turbo-16k-0613	$ 0.003 /1k	$ 0.004 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4	$ 0.03 /1k	$ 0.06 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4-0125-preview	$ 0.01 /1k	$ 0.03 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4-32k	$ 0.06 /1k	$ 0.12 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4-32k-0613	$ 0.06 /1k	$ 0.12 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4-turbo	$ 0.01 /1k	$ 0.03 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4-turbo-2024-04-09	$ 0.01 /1k	$ 0.03 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4-turbo-preview	$ 0.01 /1k	$ 0.03 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4-vision-preview	$ 0.01 /1k	$ 0.03 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4o	$ 0.005 /1k	$ 0.015 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4o-2024-05-13	$ 0.005 /1k	$ 0.015 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4o-2024-08-06	$ 0.0025 /1k	$ 0.01 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4o-mini	$ 0.00015 /1k	$ 0.0006 /1k	官方价格1:1×7.5固定汇率	不限速
+gpt-4o-mini-2024-07-18	$ 0.00015 /1k	$ 0.0006 /1k	官方价格1:1×7.5固定汇率	不限速
+text-embedding-3-large	$ 0.00013 /1k	$ 0.00013 /1k	官方价格1:1×7.5固定汇率	不限速
+text-embedding-3-small	$ 0.00002 /1k	$ 0.00002 /1k	官方价格1:1×7.5固定汇率	不限速
+text-embedding-ada-002	$ 0.0001 /1k	$ 0.0001 /1k	官方价格1:1×7.5固定汇率	不限速
 
 # 🎁 购买链接
 
-拍下24小时自动秒发APIKEY
+**拍下24小时自动秒发APIKEY**
 
 电脑或手机浏览器点击[淘宝](http://e.tb.cn/h.gH4gxUT6fd8mDry?tk=IvOP38MGMgQ)：
 
@@ -27,23 +62,23 @@
 
 ## 🔥一、获取APIKEY
 
-1、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
+**1、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可**
 
 
 
-2、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
+**2、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：**
 
-**> https://api.baicaigpt.cn
+> **https://api.baicaigpt.cn**
 > 
-> https://api.baicaigpt.cn/v1
+> **https://api.baicaigpt.cn/v1**
 > 
-> https://api.baicaigpt.cn/v1/chat/completions**
+> **https://api.baicaigpt.cn/v1/chat/completions**
 
 ## 🔥二、使用APIKEY
 
 ### 🔥2.1 ChatGPT免费镜像开箱即用
 
-1、LobeChat （35K+ star!即刻拥有你的私人 ChatGPT的项目）
+**1、LobeChat （35K+ star!即刻拥有你的私人 ChatGPT的项目）**
 
 > PC端/移动端，请访问 [https://lobechat.baicaigpt.com](https://lobechat.baicaigpt.com)
 
@@ -54,19 +89,25 @@
 ![image](https://github.com/user-attachments/assets/9bbe4c2f-8963-405b-8780-35187a0a14f1)
 
 
-2、NextChat（70K+ star！马上拥有跨平台 ChatGPT 应用：ChatGPT-Next-Web）
+**2、NextChat（70K+ star！马上拥有跨平台 ChatGPT 应用：ChatGPT-Next-Web）**
 
 > PC端/移动端，请访问 [https://nextchat.baicaigpt.cn](https://nextchat.baicaigpt.cn)
 
-**注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
-注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
-注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图**
+**注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图**
 
-可随时访问 https://baicaigpt.com 查询余额及消费明细
+**注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图**
+
+**注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图**
+
+![image](https://github.com/user-attachments/assets/dbf8f843-cd45-488b-a45d-4b740c305023)
+
+![image](https://github.com/user-attachments/assets/419578b0-dbd1-4484-9fc0-4ff164933635)
+
+可随时访问 https://m.baicaigpt.com 查询余额及消费明细
 
 ### 🔥2.2 其他三方客户端如何配置APIKEY
 
-沉浸式翻译APIKEY配置
+**沉浸式翻译APIKEY配置**
 
 1、打开Chrome插件，点击设置
 
