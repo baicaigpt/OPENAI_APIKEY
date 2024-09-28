@@ -1,5 +1,6 @@
-# 🚀白菜GPT🚀中转APIKYE|支持gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini
-## 便宜好用白菜价|让AI普惠大众|官方网站[BaiCaiGPT.com](https://baicaigpt.com/)（拼音助记：白菜GPT）
+# 🚀白菜GPT🚀告诉中转APIKYE
+## 支持gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini
+## 便宜好用白菜价|让AI普惠大众|[BaiCaiGPT.com](https://baicaigpt.com/)（拼音助记：白菜GPT）
 ## 国内直连 无需代理 价格和官方一致，单笔消费满300元7折优惠！
 
 [![image](https://github.com/user-attachments/assets/a5968384-8fdf-460a-a545-9dfe822aba25)](https://taobao.baicaigpt.com)
