@@ -8,7 +8,7 @@
 
 模型全[模型清单](https://github.com/baicaigpt/OPENAI_FAST_APIKEY#-%E8%B6%85%E4%BD%8E%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9A%E4%BB%B7) | 价格低[价格和官方一致，单笔消费满300元7折](https://taobao.baicaigpt.com) | 任意充[1元起充](https://taobao.baicaigpt.com) | 很稳定[API服务可用性](https://status.baicaigpt.cn/status/api)
 <br>
-<img src="https://github.com/user-attachments/assets/a5968384-8fdf-460a-a545-9dfe822aba25" width = "600"  alt="banner"/>
+<img src="https://github.com/user-attachments/assets/6879be22-36ae-4f72-ab8c-a902cf559eaa" width = "600"  alt="banner"/>
 </div>
 
 
