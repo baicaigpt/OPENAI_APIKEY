@@ -1,4 +1,4 @@
-# 🚀白菜GPT🚀告诉中转APIKYE
+# 🚀白菜GPT🚀高速中转APIKYE
 ## 支持gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini
 ## 便宜好用白菜价|让AI普惠大众|[BaiCaiGPT.com](https://baicaigpt.com/)（拼音助记：白菜GPT）
 ## 国内直连 无需代理 价格和官方一致，单笔消费满300元7折优惠！
