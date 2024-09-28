@@ -1,6 +1,6 @@
-# 🚀白菜GPT🚀便宜好用|让AI普惠大众
-## 官方网站[BaiCaiGPT.com](https://baicaigpt.com/)（拼音助记：白菜GPT）
-## 高速超稳中转API(免手机注册版) 国内直连 无需代理 价格和官方一致，单笔消费满300元7折优惠！
+# 🚀白菜GPT🚀高速超稳中转API(免手机注册版) 
+## 便宜好用|让AI普惠大众|官方网站[BaiCaiGPT.com](https://baicaigpt.com/)（拼音助记：白菜GPT）
+## 国内直连 无需代理 价格和官方一致，单笔消费满300元7折优惠！
 
 [![image](https://github.com/user-attachments/assets/a5968384-8fdf-460a-a545-9dfe822aba25)](https://taobao.baicaigpt.com)
 
