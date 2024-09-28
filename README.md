@@ -1,5 +1,8 @@
-# 🚀白菜GPT🚀高速超稳中转API帮助文档(免手机注册版)
-## 国内直连 无需代理 价格和官方一致，单笔消费满300元7折优惠，[点击购买](http://e.tb.cn/h.gH4gxUT6fd8mDry?tk=IvOP38MGMgQ)！
+# 🚀白菜GPT🚀高速超稳中转API(免手机注册版)帮
+## 国内直连 无需代理 价格和官方一致，单笔消费满300元7折优惠！
+
+[![image](https://github.com/user-attachments/assets/a5968384-8fdf-460a-a545-9dfe822aba25)](https://taobao.baicaigpt.com)
+
 
 ## 支持GPT3.5 、GPT4.0 、GTP4o 、DALLE.3 、text-embedding 等多种模型，[模型清单及定价说明](https://baicaigpt.com/model_list/)如下：
 白菜GPT以让AI普惠大众为使命，力争成为市面上性价比最高，最稳定的企业级中转API。白菜GPT的定价策略简单明了，按照OpenAI官方价格1：1倍率计费，即白菜GPT模型价格与官方价格一致，为便于计费，人民币汇率按7.5计算。OpenAI官方每个模型的具体价格可参考其官网（[https://openai.com/api/pricing/](https://openai.com/api/pricing/)）。
