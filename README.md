@@ -17,7 +17,6 @@
 
 ![image](https://github.com/user-attachments/assets/1482d718-6677-40ca-bdcf-6f5fdf3c39fb)
 
-
 🔥Tip
 
 > 📣强烈建议您Ctrl+D收藏我们，下次打开更方便。
@@ -26,13 +25,10 @@
 
 # 🚀快速开始
 
-## 🔥一、如何获取APIKEY
+## 🔥一、获取APIKEY
 
 1、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
 
-![image](https://github.com/user-attachments/assets/50743249-9034-4e33-9bbc-9baeab967df5)
-
-![image](https://github.com/user-attachments/assets/216357be-e85b-4703-9a72-d40dd9466605)
 
 
 2、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
@@ -43,17 +39,20 @@
 > 
 > https://api.baicaigpt.cn/v1/chat/completions
 
-## 🔥二、如何查询APIKEY可用余额
+## 🔥二、使用APIKEY
 
-APIKEY余额及消费明细查询网址：https://m.baicaigpt.com （拼音助记：白菜GPT）
-
-使用说明：打开网址，输入APIKEY，即可查询可用余额及消费明细
-
-## 🔥三、如何快速开始ChatGPT-免费镜像开箱即用
+### 🔥2.1 ChatGPT免费镜像开箱即用
 
 1、LobeChat （35K+ star!即刻拥有你的私人 ChatGPT的项目）
 
-PC端/移动端，请访问 https://lobechat.baicaigpt.com
+PC端/移动端，请访问 [https://lobechat.baicaigpt.com](https://lobechat.baicaigpt.com)
+
+![image](https://github.com/user-attachments/assets/a96d97f1-ccf6-4494-b976-91963702fc98w=387&h=500)
+
+![image](https://github.com/user-attachments/assets/ac41a079-a828-4a2f-872e-4167310fb590)
+
+![image](https://github.com/user-attachments/assets/9bbe4c2f-8963-405b-8780-35187a0a14f1)
+
 
 2、NextChat（70K+ star！马上拥有跨平台 ChatGPT 应用：ChatGPT-Next-Web）
 
@@ -65,7 +64,7 @@ PC端/移动端，请访问 https://nextchat.baicaigpt.cn
 
 可随时访问 https://baicaigpt.com 查询余额及消费明细
 
-## 🔥四、其他三方客户端如何配置APIKEY
+### 🔥2.2 其他三方客户端如何配置APIKEY
 
 沉浸式翻译APIKEY配置
 
@@ -83,7 +82,7 @@ https://api.baicaigpt.cn/v1/chat/completions
 
 6、完成配置，刷新网页可开始网页翻译！
 
-## 🔥五、程序开发如何实现对话请求-Python示例代码
+### 🔥2.3 程序开发如何实现对话请求-Python示例代码
 
 python代码Demo（复制粘贴，替换APIKEY即可调试通过）:
 
@@ -116,6 +115,14 @@ res = conn.getresponse()
 data = res.read()
 print(data.decode("utf-8"))
 ```
+
+
+## 🔥三、查询APIKEY可用余额
+
+APIKEY余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.baicaigpt.com) （拼音助记：白菜GPT）
+
+使用说明：打开网址，输入APIKEY，即可查询可用余额及消费明细
+
 
 ## 🔥六、都支持哪些模型及价格
 
