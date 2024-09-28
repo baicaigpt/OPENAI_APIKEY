@@ -33,11 +33,11 @@
 
 2、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
 
-> https://api.baicaigpt.cn
+**> https://api.baicaigpt.cn
 > 
 > https://api.baicaigpt.cn/v1
 > 
-> https://api.baicaigpt.cn/v1/chat/completions
+> https://api.baicaigpt.cn/v1/chat/completions**
 
 ## 🔥二、使用APIKEY
 
@@ -45,9 +45,9 @@
 
 1、LobeChat （35K+ star!即刻拥有你的私人 ChatGPT的项目）
 
-PC端/移动端，请访问 [https://lobechat.baicaigpt.com](https://lobechat.baicaigpt.com)
+> PC端/移动端，请访问 [https://lobechat.baicaigpt.com](https://lobechat.baicaigpt.com)
 
-![image](https://github.com/user-attachments/assets/a96d97f1-ccf6-4494-b976-91963702fc98w=387&h=500)
+![image](https://github.com/user-attachments/assets/a96d97f1-ccf6-4494-b976-91963702fc98)
 
 ![image](https://github.com/user-attachments/assets/ac41a079-a828-4a2f-872e-4167310fb590)
 
@@ -56,11 +56,11 @@ PC端/移动端，请访问 [https://lobechat.baicaigpt.com](https://lobechat.b
 
 2、NextChat（70K+ star！马上拥有跨平台 ChatGPT 应用：ChatGPT-Next-Web）
 
-PC端/移动端，请访问 https://nextchat.baicaigpt.cn
+> PC端/移动端，请访问 [https://nextchat.baicaigpt.cn](https://nextchat.baicaigpt.cn)
 
+**注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
 注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
-注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
-注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
+注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图**
 
 可随时访问 https://baicaigpt.com 查询余额及消费明细
 
