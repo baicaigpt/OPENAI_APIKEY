@@ -64,7 +64,7 @@
 
 📣请仔细阅读说明，并遵循指引操作，非常感谢您的配合。
 
-### 🌟 如果你喜欢 白菜GPT 的话，就请给我们一个 Star 吧，一如既往提供低价服务！🌟.
+### 🌟 如果你喜欢 白菜GPT 的话，就请给我们一个 Star 吧，一如既往提供低价大模型服务！🌟.
  <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e" width = "300" alt="Star" align=center />
  
 
