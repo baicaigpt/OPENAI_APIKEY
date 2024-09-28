@@ -88,6 +88,7 @@ python代码Demo（复制粘贴，替换APIKEY即可调试通过）:
 
 创建聊天
 
+```
 import http.client
 import json
 
@@ -113,6 +114,7 @@ conn.request("POST", "/v1/chat/completions", payload, headers)
 res = conn.getresponse()
 data = res.read()
 print(data.decode("utf-8"))
+```
 
 ## 🔥六、都支持哪些模型及价格
 
