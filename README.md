@@ -103,9 +103,9 @@ PC端/移动端，请访问 https://lobechat.baicaigpt.com
 
 PC端/移动端，请访问 https://nextchat.baicaigpt.cn
 
-> 注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
-> 注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
-> 注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图
+> **注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图**
+> **注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图**
+> **注意：仅需复制粘贴白菜API KEY即可，其他无需修改，详见下图**
 
 <img src="https://github.com/user-attachments/assets/fdde3575-2f4a-4a46-b634-5da07de2d5b5" width = "600"  alt="banner"/>
 
@@ -125,8 +125,7 @@ PC端/移动端，请访问 https://nextchat.baicaigpt.cn
 
 3、点击“展开更多自定义选型按钮”
 
-![image](https://github.com/user-attachments/assets/9d16230b-16eb-454c-bea3-406983a86adb)
-<img src="https://github.com/user-attachments/assets/fdde3575-2f4a-4a46-b634-5da07de2d5b5" width = "600"  alt="banner"/>
+<img src="https://github.com/user-attachments/assets/9d16230b-16eb-454c-bea3-406983a86adb" width = "600"  alt="banner"/>
 
 4、复制转发地址，切记不要输错，复制粘贴如下地址即可
 
