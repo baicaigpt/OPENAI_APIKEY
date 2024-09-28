@@ -6,7 +6,7 @@
 
 # 🚀导航🚀
 >
->[一🌟购买APIKEY]([##一获取APIKEY](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#一🌟购买APIKEY))
+>[一🌟购买APIKEY](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#一🌟购买APIKEY)
 >
 >[二使用APIKEY](##二使用APIKEY)
 >
