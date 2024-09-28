@@ -8,20 +8,20 @@
 >
 >[一🌟购买APIKEY](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E4%B8%80%E8%B4%AD%E4%B9%B0apikey)
 >
->[二使用APIKEY](##二使用APIKEY)
+>[二🌟使用APIKEY](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E4%BA%8C%E4%BD%BF%E7%94%A8apikey)
 >
->>[2.1免费镜像LobeChat|NextChat开箱即用](### 2.1免费镜像LobeChat|NextChat开箱即用)
+>>[2.1免费镜像LobeChat|NextChat开箱即用](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#21%E5%85%8D%E8%B4%B9%E9%95%9C%E5%83%8Flobechatnextchat%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8)
 >>
->>[2.2其他三方客户端-沉浸式双语网页翻译](### 2.2其他三方客户端-沉浸式双语网页翻译)
+>>[2.2其他三方客户端-沉浸式双语网页翻译](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#22%E5%85%B6%E4%BB%96%E4%B8%89%E6%96%B9%E5%AE%A2%E6%88%B7%E7%AB%AF-%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%8F%8C%E8%AF%AD%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91)
 >>
->>[2.3程序开发Python示例代码](### 2.3程序开发Python示例代码)
+>>[2.3程序开发Python示例代码](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#23%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91python%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
 >>
->[三查询APIKEY余额及明细](##三查询APIKEY余额及明细)
+>[三🌟查询APIKEY余额及明细](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E4%B8%89%E6%9F%A5%E8%AF%A2apikey%E4%BD%99%E9%A2%9D%E5%8F%8A%E6%98%8E%E7%BB%86)
 >
->[四其他常见问题](##四其他常见问题)
+>[四🌟其他常见问题](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E5%9B%9B%E5%85%B6%E4%BB%96%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 >
 
-# 模型及定价🎯 
+# 🎯 超低模型及定价🎯 
 ## 支持GPT3.5 、GPT4.0 、GTP4o 、DALLE.3 、text-embedding 等多种模型
 ## [模型清单及定价说明](https://baicaigpt.com/model_list/)
 白菜GPT以让AI普惠大众为使命，力争成为市面上性价比最高，最稳定的企业级中转API。白菜GPT的定价策略简单明了，按照OpenAI官方价格1：1倍率计费，即白菜GPT模型价格与官方价格一致，为便于计费，人民币汇率按7.5计算。OpenAI官方每个模型的具体价格可参考其官网（[https://openai.com/api/pricing/](https://openai.com/api/pricing/)）。
