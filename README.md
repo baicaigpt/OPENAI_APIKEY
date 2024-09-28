@@ -1,23 +1,21 @@
-# 🚀白菜GPT🚀高速超稳中转API(免手机注册版)帮
+# 🚀白菜GPT🚀高速超稳中转API(免手机注册版)
+# 官方网站[BaiCaiGPT.com](https://baicaigpt.com/)（拼音助记：白菜GPT）
 ## 国内直连 无需代理 价格和官方一致，单笔消费满300元7折优惠！
 
 [![image](https://github.com/user-attachments/assets/a5968384-8fdf-460a-a545-9dfe822aba25)](https://taobao.baicaigpt.com)
 
->目录：
+># 🚀快速开始🚀
 >
->>[🎯模型及定价](#🎯模型及定价)
+>>[一、获取APIKEY](##一、获取APIKEY)
 >>
->>[淘宝购买链接](#🎁淘宝购买链接)
+>>[二、使用APIKEY](##二、使用APIKEY)
 >>
->>[🚀快速开始🚀](#🚀快速开始🚀)
+>>[三、查询APIKEY余额及明细](##三、查询APIKEY余额及明细)
 >>
->>[🔥一、获取APIKE](## 🔥一、获取APIKEY)
+>>[四、其他常见问题](##四、其他常见问题)
 >>
->>[5常见问题及解决方案](#5常见问题及解决方案)
->>
->>[6帮助文档](#6帮助文档)
 
-# 🎯 模型及定价
+# 模型及定价🎯 
 ## 支持GPT3.5 、GPT4.0 、GTP4o 、DALLE.3 、text-embedding 等多种模型
 ## [模型清单及定价说明](https://baicaigpt.com/model_list/)
 白菜GPT以让AI普惠大众为使命，力争成为市面上性价比最高，最稳定的企业级中转API。白菜GPT的定价策略简单明了，按照OpenAI官方价格1：1倍率计费，即白菜GPT模型价格与官方价格一致，为便于计费，人民币汇率按7.5计算。OpenAI官方每个模型的具体价格可参考其官网（[https://openai.com/api/pricing/](https://openai.com/api/pricing/)）。
@@ -44,7 +42,7 @@
 |text-embedding-3-small|	$ 0.00002 /1k|	$ 0.00002 /1k|	官方价格1:1×7.5固定汇率|	不限速|
 |text-embedding-ada-002|	$ 0.0001 /1k|	$ 0.0001 /1k|	官方价格1:1×7.5固定汇率|	不限速|
 
-# 🎁 淘宝购买链接
+# 淘宝购买链接🎁 
 
 [拍下24小时自动秒发APIKEY](https://taobao.baicaigpt.com/)
 
@@ -55,7 +53,7 @@
 📣请仔细阅读说明，并遵循指引操作，非常感谢您的配合。
 
 # 🚀快速开始🚀
-## 🔥一、获取APIKEY
+## 一、获取APIKEY
 ### 1、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
 
 <img width="478" alt="Snipaste_2024-09-28_11-58-37" src="https://github.com/user-attachments/assets/ce3bf0f8-a1bc-404f-9d28-58f66e7a109f">
@@ -68,7 +66,7 @@
 
 **https://api.baicaigpt.cn/v1/chat/completions**
 
-## 🔥二、使用APIKEY：
+## 二、使用APIKEY
 ### 2.1 ChatGPT-免费镜像开箱即用
 
 **1、LobeChat （35K+ star!即刻拥有你的私人 ChatGPT的项目）**
@@ -164,7 +162,7 @@ data = res.read()
 print(data.decode("utf-8"))
 ```
 
-## 🔥三、查询APIKEY余额及明细
+## 三、查询APIKEY余额及明细
 APIKEY余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.baicaigpt.com) （拼音助记：白菜GPT）
 
 使用说明：打开网址，输入APIKEY，即可查询可用余额及消费明细
@@ -172,7 +170,7 @@ APIKEY余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.ba
 <img width="481" alt="Snipaste_2024-09-28_12-05-15" src="https://github.com/user-attachments/assets/40000941-4d61-48ff-bb13-7e965513dbab">
 
 		
-## 🔥四、其他常见问题
+## 四、其他常见问题
 1.如何进行API接口调用？
 请参考第五章节，示例代码。
 
