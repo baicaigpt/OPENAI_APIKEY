@@ -4,16 +4,18 @@
 
 [![image](https://github.com/user-attachments/assets/a5968384-8fdf-460a-a545-9dfe822aba25)](https://taobao.baicaigpt.com)
 
-># 🚀快速开始🚀
+# 🚀导航🚀
 >
->>[一、获取APIKEY](##一、获取APIKEY)
->>
->>[二、使用APIKEY](##二、使用APIKEY)
->>
->>[三、查询APIKEY余额及明细](##三、查询APIKEY余额及明细)
->>
->>[四、其他常见问题](##四、其他常见问题)
->>
+>[一获取APIKEY](##一获取APIKEY)
+>
+>[二使用APIKEY](##二使用APIKEY)
+>>[2.1免费镜像LobeChat|NextChat开箱即用](### 2.1免费镜像LobeChat|NextChat开箱即用)
+>>[2.2其他三方客户端-沉浸式双语网页翻译](### 2.2其他三方客户端-沉浸式双语网页翻译)
+>>[2.3程序开发Python示例代码](### 2.3程序开发Python示例代码)
+>[三查询APIKEY余额及明细](##三查询APIKEY余额及明细)
+>
+>[四其他常见问题](##四其他常见问题)
+>
 
 # 模型及定价🎯 
 ## 支持GPT3.5 、GPT4.0 、GTP4o 、DALLE.3 、text-embedding 等多种模型
@@ -53,7 +55,7 @@
 📣请仔细阅读说明，并遵循指引操作，非常感谢您的配合。
 
 # 🚀快速开始🚀
-## 一、获取APIKEY
+## 一获取APIKEY
 ### 1、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
 
 <img width="478" alt="Snipaste_2024-09-28_11-58-37" src="https://github.com/user-attachments/assets/ce3bf0f8-a1bc-404f-9d28-58f66e7a109f">
@@ -66,8 +68,8 @@
 
 **https://api.baicaigpt.cn/v1/chat/completions**
 
-## 二、使用APIKEY
-### 2.1 ChatGPT-免费镜像开箱即用
+## 二使用APIKEY
+### 2.1免费镜像LobeChat|NextChat开箱即用
 
 **1、LobeChat （35K+ star!即刻拥有你的私人 ChatGPT的项目）**
 
@@ -92,7 +94,7 @@ PC端/移动端，请访问 https://nextchat.baicaigpt.cn
 
 可随时访问 [https://m.baicaigpt.com](https://m.baicaigpt.com) 查询余额及消费明细
 
-### 2.2 其他三方客户端
+### 2.2其他三方客户端-沉浸式双语网页翻译
 
 **沉浸式双语网页翻译**
 
@@ -128,7 +130,7 @@ PC端/移动端，请访问 https://nextchat.baicaigpt.cn
 ![image](https://github.com/user-attachments/assets/368d8cd7-de78-45ec-9da7-9aa4613ca960)
 
 
-### 2.3 程序开发实现对话请求-Python示例代码
+### 2.3程序开发Python示例代码
 
 Python代码PDemo（复制粘贴，替换APIKEY即可调试通过）:
 
@@ -162,7 +164,7 @@ data = res.read()
 print(data.decode("utf-8"))
 ```
 
-## 三、查询APIKEY余额及明细
+## 三查询APIKEY余额及明细
 APIKEY余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.baicaigpt.com) （拼音助记：白菜GPT）
 
 使用说明：打开网址，输入APIKEY，即可查询可用余额及消费明细
@@ -170,7 +172,7 @@ APIKEY余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.ba
 <img width="481" alt="Snipaste_2024-09-28_12-05-15" src="https://github.com/user-attachments/assets/40000941-4d61-48ff-bb13-7e965513dbab">
 
 		
-## 四、其他常见问题
+## 四其他常见问题
 1.如何进行API接口调用？
 请参考第五章节，示例代码。
 
