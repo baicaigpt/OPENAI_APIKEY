@@ -37,7 +37,9 @@
 2、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
 
 > https://api.baicaigpt.cn
+> 
 > https://api.baicaigpt.cn/v1
+> 
 > https://api.baicaigpt.cn/v1/chat/completions
 
 ## 🔥二、如何查询APIKEY可用余额
