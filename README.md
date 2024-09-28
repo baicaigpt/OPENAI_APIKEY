@@ -1,9 +1,18 @@
-# 🚀白菜GPT🚀高速中转APIKYE
-## 支持gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini
-## 便宜好用白菜价|让AI普惠大众|[BaiCaiGPT.com](https://baicaigpt.com/)（拼音助记：白菜GPT）
-## 国内直连 无需代理 价格和官方一致，单笔消费满300元7折优惠！
+<div align="center">
+
+<h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>🚀白菜GPT🚀高速中转APIKYE[免注册版]</h1> 
+<h1 align="center">支持gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini</h1> 
+<h1 align="center">便宜好用白菜价|让AI普惠大众|[BaiCaiGPT.com](https://baicaigpt.com/)（拼音助记：白菜GPT）</h1> 
+
+国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 无需任何注册 | 人工在线客服
+
+模型全[模型清单](https://github.com/baicaigpt/OPENAI_FAST_APIKEY#-%E8%B6%85%E4%BD%8E%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9A%E4%BB%B7) | 价格低[价格和官方一致，单笔消费满300元7折](https://taobao.baicaigpt.com) | 任意充[1元起充](https://taobao.baicaigpt.com) | 很稳定[API服务可用性](https://status.baicaigpt.cn/status/api)
+
+</div>
 
 [![image](https://github.com/user-attachments/assets/a5968384-8fdf-460a-a545-9dfe822aba25)](https://taobao.baicaigpt.com)
+
+
 
 # 🚀导航🚀
 >
