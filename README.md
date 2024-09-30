@@ -70,7 +70,10 @@
 # 🚀快速开始🚀
 ## 一🌟购买APIKEY
 ### 1、淘宝店🎁购买链接如下 
-[拍下24小时自动秒发APIKEY](https://taobao.baicaigpt.com/)
+【淘宝】100%买家好评 http://e.tb.cn/h.gHMy8bnvrYadAzO?tk=dP1y3jPTGps CZ0000 「中转APIKEY高速稳定一秒响应」
+点击链接直接打开 或者 淘宝搜索直接打开
+<img src="https://github.com/user-attachments/assets/ee71889b-2977-4080-8ef3-1ab357d92410" width = "300"  alt="banner"/>
+
 
 ### 2、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
 
