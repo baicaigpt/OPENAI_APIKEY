@@ -3,11 +3,9 @@
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>🚀白菜GPT🚀高速中转APIKYE[免注册版] </h1> 
 <h1 align="center">🔥官方价格1:1🔥 1￥购买1$ Token 🔥全网最低价！🔥</h1> 
 <h2 align="center">支持gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini</h2> 
-<h2 align="center">便宜好用白菜价|购买链接<a href=https://m.baicaigpt.com>m.BaiCaiGPT.com</a>拼音助记：白菜GPT</h2> 
+<h2 align="center">便宜好用白菜价|自助充值 购买链接<a href=https://m.baicaigpt.com>m.BaiCaiGPT.com</a>拼音助记：白菜GPT</h2> 
 
 国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 无需任何注册 | 人工在线客服
-
-模型全[模型清单](https://github.com/baicaigpt/OPENAI_FAST_APIKEY#-%E8%B6%85%E4%BD%8E%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9A%E4%BB%B7) | 价格低[价格和官方一致，单笔消费满300元7折](https://taobao.baicaigpt.com) | 低门槛[1元起售](https://taobao.baicaigpt.com) | 很稳定[API服务可用性](https://status.baicaigpt.cn/status/api)
 <p>
 <img src="https://github.com/user-attachments/assets/6879be22-36ae-4f72-ab8c-a902cf559eaa" width = "600"  alt="banner"/>
 </div>
