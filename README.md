@@ -32,7 +32,7 @@
 # 🎯 模型及超低定价🎯 
 ## 支持GPT3.5 、GPT4.0 、GTP4o 、text-embedding 等多种模型
 ## [模型清单及定价说明](https://baicaigpt.com/model_list/)
-白菜GPT以让AI普惠大众为使命，力争成为市面上性价比最高，最稳定的企业级中转API。白菜GPT的定价策略简单明了，按照OpenAI官方价格转换人民币1:1倍率计费，即，1块钱可购买1美金Token，所有模型对标官网统计定价，白菜GPT模型价格远低于官方价格，请珍惜🎁分享🌟转发💎好友。OpenAI官方每个模型的具体价格可参考其官网（[https://openai.com/api/pricing/](https://openai.com/api/pricing/)）。
+白菜GPT以让AI普惠大众为使命，力争成为市面上性价比最高，最稳定的企业级中转API。白菜GPT的定价策略简单明了，按照OpenAI官方价格转换人民币1:1倍率计费，即，1块钱可购买1美金Token，所有模型对标官网统一定价。白菜GPT模型价格远低于官方价格，请珍惜🎁分享🌟转发💎好友。OpenAI官方每个模型的具体价格可参考其官网（[https://openai.com/api/pricing/](https://openai.com/api/pricing/)）。
 | 模型 | 提问官方价格 | 回答官方价格 | 白菜定价 | 每小时最多请求次数 |
 | --- | --- | --- | --- | --- |
 |gpt-3.5-turbo|	$ 0.0015 /1k|	$ 0.002 /1k	|官方价格1:1 1￥=1$token	|不限速|
