@@ -72,6 +72,9 @@
 ### 1、淘宝店🎁购买链接如下 
 【淘宝】100%买家好评 http://e.tb.cn/h.gHMy8bnvrYadAzO?tk=dP1y3jPTGps CZ0000 「中转APIKEY高速稳定一秒响应」
 点击链接直接打开 或者 淘宝搜索直接打开
+
+或者手机淘宝扫码：
+
 <img src="https://github.com/user-attachments/assets/ee71889b-2977-4080-8ef3-1ab357d92410" width = "300"  alt="banner"/>
 
 
