@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>🚀白菜GPT🚀高速中转APIKYE[免注册版] </h1> 
-<h1 align="center">🔥官方价格1:1🔥 1￥购买1$ Token 🔥全网最低价！🔥</h1> 
+<h1 align="center">🔥官方价格1:1🔥 1￥购买1$ Token 🔥便宜好用白菜价！🔥</h1> 
 <h2 align="center">支持gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini</h2> 
 <h2 align="center">便宜好用白菜价|自助充值 购买链接<a href=https://m.baicaigpt.com>m.BaiCaiGPT.com</a>拼音助记：白菜GPT</h2> 
 
