@@ -24,7 +24,7 @@
 >>
 >>[2.3程序开发Python示例代码](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#23%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91python%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
 >>
->[三🌟查询APIKEY余额及明细](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E4%B8%89%E6%9F%A5%E8%AF%A2apikey%E4%BD%99%E9%A2%9D%E5%8F%8A%E6%98%8E%E7%BB%86)
+>[三🌟自助充值、查询APIKEY余额及明细](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E4%B8%89%E6%9F%A5%E8%AF%A2apikey%E4%BD%99%E9%A2%9D%E5%8F%8A%E6%98%8E%E7%BB%86)
 >
 >[四🌟其他常见问题](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E5%9B%9B%E5%85%B6%E4%BB%96%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 >
@@ -179,11 +179,10 @@ print(data.decode("utf-8"))
 ```
 
 ## 三🌟查询APIKEY余额及明细
-APIKEY余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.baicaigpt.com) （拼音助记：白菜GPT）
+APIKEY自助充值、余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.baicaigpt.com) （拼音助记：白菜GPT）
 
-使用说明：打开网址，输入APIKEY，即可查询可用余额及消费明细
-
-<img width="481" alt="Snipaste_2024-09-28_12-05-15" src="https://github.com/user-attachments/assets/40000941-4d61-48ff-bb13-7e965513dbab">
+使用说明：打开网址，输入APIKEY，即可自助充值、查询可用余额及消费明细
+![image](https://github.com/user-attachments/assets/e44520c6-a823-4e28-9446-919d46763e68)
 
 		
 ## 四🌟其他常见问题
@@ -224,4 +223,4 @@ APIKEY余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.ba
 大部分模型均支持，可查阅文档：模型支持列表。
 
 15.购买一个apikey后，发现买少了，想在这个apikey上继续充值，要怎么做？
-联系客服微信（BaiCai2568）。
+[自助充值，1元1$](https://m.baicaigpt.com/)。
