@@ -7,9 +7,8 @@
 
 国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 无需任何注册 | 人工在线客服
 <p>
-<img src="https://github.com/user-attachments/assets/bb36783a-657b-405a-b0f4-f9a1f996895f" width = "600"  alt="banner"/>
+<img src="https://github.com/user-attachments/assets/4787c52e-ba27-4212-a29e-a7f5aef3aef4" width = "600"  alt="banner"/>
 </div>
-
 
 
 # 🚀导航🚀
