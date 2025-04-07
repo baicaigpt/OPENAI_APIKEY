@@ -72,6 +72,9 @@
 [【淘宝】100%买家好评 「中转APIKEY高速稳定一秒响应」](http://tb.baicaigpt.com)
 点击链接直接打开或者手机淘宝扫码：
 
+![image](https://github.com/user-attachments/assets/5c334caf-9834-46d2-a903-471d6cac9141)
+
+
 <img src="https://github.com/user-attachments/assets/ee71889b-2977-4080-8ef3-1ab357d92410" width = "300"  alt="banner"/>
 
 
