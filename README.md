@@ -49,21 +49,25 @@
 
 # 🚀快速开始🚀
 ## 一🌟购买APIKEY
-### 1、自助🎁购买链接如下 
-[100%买家好评 「中转APIKEY高速稳定一秒响应」]
+### 1、🎁1元自助购买APIKEY（含1$ token）
+链接如下： [100%买家好评 「中转APIKEY高速稳定一秒响应」]
 
-点击链接：[http://m.baicaigpt.com](https://m.baicaigpt.com/#/home)
+点击链接：[http://m.baicaigpt.com](https://m.baicaigpt.com/#/home)，选择[购买APIKEY](https://m.baicaigpt.com/#/wallet/purchaseApiKey)
 
-![image](https://github.com/user-attachments/assets/edd0608b-82f0-4b0a-8bf5-c507b396b3cd)
+<img width="478" alt="1元自助购买APIKEY" src="https://github.com/user-attachments/assets/edd0608b-82f0-4b0a-8bf5-c507b396b3cd">
+
+### 2、输入邮箱，24小时自动秒发货
+<img width="478" alt="输入邮箱，24小时自动秒发货" src="https://github.com/user-attachments/assets/8d76778f-614f-4aba-bc3b-bced8c2125fa">
+
+### 3、完成微信支付，复制APIKE秘钥即可
+
+<img width="478" alt="完成微信支付" src="https://github.com/user-attachments/assets/f48db82c-2df1-4314-ae64-329c711227c1">
 
 
+<img width="478" alt="复制APIKE秘钥即可" src="https://github.com/user-attachments/assets/affd464d-e31a-4555-ae60-42926bb943e4">
 
-
-### 2、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
-
-<img width="478" alt="Snipaste_2024-09-28_11-58-37" src="https://github.com/user-attachments/assets/ce3bf0f8-a1bc-404f-9d28-58f66e7a109f">
 	
-### 3、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
+### 4、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
 
 **https://api.baicaigpt.cn**
 
@@ -105,7 +109,7 @@ PC端/移动端，请访问 https://nextchat.baicaigpt.cn
 
 <img src="https://github.com/user-attachments/assets/754e499d-7dbd-4757-903b-a15e63c2e19d" width = "600"  alt="banner"/>
 
-2、复制从淘宝购买的APIKEY，并选择所需模型（模型可默认，或从模型清单选择，推荐gpt-4o-mini）
+2、复制从[白菜GPT](http://m.baicaigpt.com)购买的APIKEY，并选择所需模型（模型可默认，或从模型清单选择，推荐gpt-4o-mini）
 
 <img src="https://github.com/user-attachments/assets/d2efaa67-d3fa-43c2-9b22-70dc753e2624" width = "600"  alt="banner"/>
 
@@ -164,7 +168,8 @@ print(data.decode("utf-8"))
 ## 三🌟查询APIKEY余额及明细
 APIKEY自助充值、余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.baicaigpt.com) （拼音助记：白菜GPT）
 
-使用说明：打开网址，输入APIKEY，即可自助充值、查询可用余额及消费明细
+使用说明：打开[网址](http://m.baicaigpt.com)，输入APIKEY，即可自助充值、查询可用余额及消费明细
+
 ![image](https://github.com/user-attachments/assets/e44520c6-a823-4e28-9446-919d46763e68)
 
 		
