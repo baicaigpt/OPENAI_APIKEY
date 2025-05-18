@@ -49,11 +49,13 @@
 
 # 🚀快速开始🚀
 ## 一🌟购买APIKEY
-### 1、淘宝店🎁购买链接如下 
-[【淘宝】100%买家好评 「中转APIKEY高速稳定一秒响应」](http://tb.baicaigpt.com)
-点击链接直接打开或者手机淘宝扫码：
+### 1、自助🎁购买链接如下 
+[100%买家好评 「中转APIKEY高速稳定一秒响应」]([http://m.baicaigpt.com](https://m.baicaigpt.com/#/home))
 
-![image](https://github.com/user-attachments/assets/5c334caf-9834-46d2-a903-471d6cac9141)
+点击链接：
+
+![image](https://github.com/user-attachments/assets/edd0608b-82f0-4b0a-8bf5-c507b396b3cd)
+
 
 
 
