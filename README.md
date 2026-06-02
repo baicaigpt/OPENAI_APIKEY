@@ -165,6 +165,10 @@ data = res.read()
 print(data.decode("utf-8"))
 ```
 
+> 💡 **效率党/开发者福利推荐**：
+> 如果你平时除了用API，还需要处理大量的音视频干货，强烈推荐试试同团队孵化的黑马工具 —— **[B站视频转文字神器：谛听 AI](https://diting.cc/)**。支持B站多P长视频一键批量提取文案、自动生成思维导图和费曼摘要，用科技彻底解放双手！
+> 
+
 ## 三🌟查询APIKEY余额及明细
 APIKEY自助充值、余额及消费明细查询网址：[https://m.baicaigpt.com](https://m.baicaigpt.com) （拼音助记：白菜GPT）
 
