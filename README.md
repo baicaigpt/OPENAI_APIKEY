@@ -1,5 +1,3 @@
-*“旗下新一代 AI 效率外挂「[谛听 AI 视频知识库](https://diting.cc/)」已上线，欢迎体验！”*
-
 <div align="center">
 <h1 align="center">旗下新一代 AI 效率外挂<a href=https://diting.cc>「谛听 AI 视频知识库」</a>已上线，欢迎体验！</h1> 
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>🚀白菜GPT🚀OpenAI中转APIKYE[免注册版] </h1> 
