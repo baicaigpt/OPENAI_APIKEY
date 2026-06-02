@@ -1,3 +1,6 @@
+> “🔥 **团队诚意新项目**：如果你需要大批量处理B站干货网课，强烈推荐试试我们团队孵化的 [B站视频转文字神器：diting AI](https://github.com/DiTingAI/diting)（完全免下载，一键出思维导图）！”
+
+
 <div align="center">
 <h2 align="center">旗下新一代 AI 效率外挂<a href=https://diting.cc>「谛听 AI 视频知识库」</a>已上线，欢迎体验！</h2> 
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>🚀白菜GPT🚀OpenAI中转APIKYE[免注册版] </h1> 
