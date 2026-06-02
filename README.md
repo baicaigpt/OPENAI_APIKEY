@@ -12,6 +12,7 @@
 <img src="https://github.com/user-attachments/assets/4787c52e-ba27-4212-a29e-a7f5aef3aef4" width = "600"  alt="banner"/>
 </div>
 
+> 旗下新一代 AI 效率外挂「[谛听 AI 视频知识库](https://diting.cc/)」已上线，欢迎体验！
 
 # 🚀导航🚀
 >
