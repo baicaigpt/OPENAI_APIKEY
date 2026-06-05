@@ -1,4 +1,4 @@
-> “🔥 **团队诚意新项目**：如果你需要大批量处理B站干货网课，强烈推荐试试我们团队孵化的 [B站视频转文字神器：diting AI](https://github.com/DiTingAI/diting)（完全免下载，一键出思维导图）！”
+> “🔥 **团队诚意新项目**：如果你需要大批量处理B站干货网课，强烈推荐试试我们团队孵化的 [B站视频转文字神器：diting AI](diting.cc/bilibili-video-to-text.html)（完全免下载，一键出思维导图）！”
 
 
 <div align="center">
