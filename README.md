@@ -1,6 +1,3 @@
-> “🔥 **团队诚意新项目**：如果你需要大批量处理B站干货网课，强烈推荐试试我们团队孵化的 [B站视频转文字神器：diting AI](diting.cc/bilibili-video-to-text.html)（完全免下载，一键出思维导图）！”
-
-
 <div align="center">
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>🚀白菜GPT🚀OpenAI中转APIKYE[免注册版] </h1> 
 <h1 align="center">🔥官方价格1:1🔥 1￥购买1$ Token 🔥便宜好用白菜价！🔥</h1> 
@@ -171,7 +168,8 @@ print(data.decode("utf-8"))
 
 > 💡 **效率党/开发者福利推荐**：
 > 如果你平时除了用API，还需要处理大量的音视频干货，强烈推荐试试同团队孵化的黑马工具 —— **[B站视频转文字神器：谛听 AI](https://diting.cc/)**。支持B站多P长视频一键批量提取文案、自动生成思维导图和费曼摘要，用科技彻底解放双手！
-> 
+>
+>  “🔥 **团队诚意新项目**：如果你需要大批量处理B站干货网课，强烈推荐试试我们团队孵化的 [B站视频转文字神器：diting AI](diting.cc/bilibili-video-to-text.html)（完全免下载，一键出思维导图）！”
 
 
 ## 三🌟查询APIKEY余额及明细
