@@ -9,7 +9,7 @@
 <img src="https://github.com/user-attachments/assets/4787c52e-ba27-4212-a29e-a7f5aef3aef4" width = "600"  alt="banner"/>
 </div>
 
-> 旗下新一代 AI 效率外挂「[谛听 AI 视频知识库](https://diting.cc/)」已上线，欢迎体验！
+> 旗下新一代 AI 效率外挂「[谛听 AI 视频知识库](diting.cc/bilibili-video-to-text.html)」已上线，欢迎体验！
 
 # 🚀导航🚀
 >
@@ -169,7 +169,7 @@ print(data.decode("utf-8"))
 > 💡 **效率党/开发者福利推荐**：
 > 如果你平时除了用API，还需要处理大量的音视频干货，强烈推荐试试同团队孵化的黑马工具 —— **[B站视频转文字神器：谛听 AI](https://diting.cc/)**。支持B站多P长视频一键批量提取文案、自动生成思维导图和费曼摘要，用科技彻底解放双手！
 >
->  “🔥 **团队诚意新项目**：如果你需要大批量处理B站干货网课，强烈推荐试试我们团队孵化的 [B站视频转文字神器：diting AI](diting.cc/bilibili-video-to-text.html)（完全免下载，一键出思维导图）！”
+>  “🔥 **团队诚意新项目**：如果你需要大批量处理B站干货网课，强烈推荐试试我们团队孵化的 [B站视频转文字神器：diting AI](https://github.com/DiTingAI/diting)（完全免下载，一键出思维导图）！”
 
 
 ## 三🌟查询APIKEY余额及明细
