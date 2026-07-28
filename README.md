@@ -10,7 +10,9 @@
 <p>
 </div>
 
-> 旗下新一代 AI 效率外挂「[谛听 AI 视频知识库](https://diting.cc/bilibili-video-to-text.html)」已上线，欢迎体验！
+## 如果你喜欢白菜GPT的话...
+> 旗下新一代 AI 效率外挂「[谛听 AI 视频知识库](https://diting.cc/register?code=56O2Vi8U)」已上线，欢迎体验！
+[<img width="1024" height="209" alt="image" src="https://github.com/user-attachments/assets/c4236272-7c3d-4059-a720-992ae9e03158" />](https://diting.cc/register?code=56O2Vi8U)
 
 # 🚀导航🚀
 >
