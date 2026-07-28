@@ -6,6 +6,8 @@
 
 国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 无需任何注册 | 人工在线客服
 <p>
+<a href=https://portal.qiniu.com/AAFSeJ-A/signup><img width="1024" height="209" alt="image" src="https://github.com/user-attachments/assets/cc03ef9a-24d9-4f84-9fd7-4b8ed2e5d22b" /></a>
+<p>
 <img src="https://github.com/user-attachments/assets/4787c52e-ba27-4212-a29e-a7f5aef3aef4" width = "600"  alt="banner"/>
 </div>
 
