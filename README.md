@@ -5,6 +5,9 @@
 <h2 align="center">5元起自助充值<a href=https://m.baicaigpt.com>m.BaiCaiGPT.com</a>拼音助记：白菜GPT</h2> 
 
 国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 无需任何注册 | 人工在线客服
+<p>
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/404e272d-f38b-4d1f-8861-4a41e47ced05" />
+
 
 </div>
 
