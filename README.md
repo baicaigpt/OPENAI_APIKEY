@@ -5,14 +5,9 @@
 <h2 align="center">5元起自助充值<a href=https://m.baicaigpt.com>m.BaiCaiGPT.com</a>拼音助记：白菜GPT</h2> 
 
 国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 无需任何注册 | 人工在线客服
-<p>
-<a href=https://portal.qiniu.com/AAFSeJ-A/signup><img width="1024" height="209" alt="image" src="https://github.com/user-attachments/assets/cc03ef9a-24d9-4f84-9fd7-4b8ed2e5d22b" /></a>
-<p>
+
 </div>
 
-## 如果你喜欢白菜GPT的话...
-> 旗下新一代 AI 效率外挂「[谛听 AI 视频知识库](https://diting.cc/register?code=56O2Vi8U)」已上线，欢迎体验！
-[<img width="1024" height="209" alt="image" src="https://github.com/user-attachments/assets/c4236272-7c3d-4059-a720-992ae9e03158" />](https://diting.cc/register?code=56O2Vi8U)
 
 # 🚀导航🚀
 >
